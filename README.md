@@ -8,11 +8,15 @@ The primary objective was to explore customer order data, identify key business 
 
 ## Dataset  
 - **Source:** Provided as part of the project coursework  
-- **Size:** ~1,000+ customer orders  
+- **Size:** 1,898 customer orders across 178 restaurants  
+- **Customers:** 1,200 unique customers  
+- **Cuisine Types:** 14 different cuisine categories  
 - **Key Features:**  
-  - Restaurant names and categories  
-  - Order dates, times, and delivery durations  
-  - Customer location and preferences  
+  - Order ID and customer identification  
+  - Restaurant names and cuisine types  
+  - Order costs and day of week (weekday/weekend)  
+  - Customer ratings (3-5 scale or not given)  
+  - Food preparation time and delivery time (in minutes)  
 - **Target:** Not applicable (exploratory analysis project)
 
 ## Workflow  
@@ -21,11 +25,16 @@ The primary objective was to explore customer order data, identify key business 
 3. **Visualization & Insights** – Built visual dashboards using Matplotlib and Seaborn to illustrate peak order times, best-performing restaurants, and delivery performance patterns.  
 4. **Business Recommendations** – Translated analytical findings into actionable strategies for FoodHub’s marketing and operations teams.
 
-## Results & Key Insights  
-- Identified peak order hours and weekdays to optimize delivery workforce allocation.  
-- Highlighted top-performing restaurants by order volume and revenue potential.  
-- Discovered key factors influencing delivery delays and proposed operational improvements.  
-- Provided data-driven recommendations to improve customer satisfaction and reduce delivery time.
+## Key Findings  
+- **Food Preparation Time:** Ranges from 20-35 minutes with an average of 27.37 minutes  
+- **Customer Ratings:** 38.78% of orders are unrated, with ratings distributed as 5★ (31%), 4★ (20%), 3★ (10%)  
+- **Order Distribution:** Analysis covers both weekday and weekend ordering patterns  
+- **Restaurant Performance:** Identified top-performing restaurants by order volume and customer satisfaction  
+
+## Files in Repository  
+- `foodhub_order.csv` - Primary dataset containing 1,898 food delivery orders  
+- `Project1_Foodhub_sbadwaik_Learner_Notebook_Full_Code_Submission.ipynb` - Complete analysis notebook  
+- `README.md` - Project documentation
 
 ## Tech Stack  
 - **Language:** Python  
