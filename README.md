@@ -221,20 +221,12 @@ This project demonstrates professional data science practices including:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
 
-### 🌟 **If you found this project helpful, please give it a ⭐!**
 
-[![GitHub stars](https://img.shields.io/github/stars/sandesha21/foodhub-analysis?style=social)](https://github.com/sandesha21/foodhub-analysis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sandesha21/foodhub-analysis?style=social)](https://github.com/sandesha21/foodhub-analysis/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/sandesha21/foodhub-analysis?style=social)](https://github.com/sandesha21/foodhub-analysis/watchers)
-
+**Keywords**: FoodHub, Food Delivery, Data Analysis, Python, Pandas, Jupyter, Business Intelligence, Customer Analytics, Statistical Analysis, Machine Learning, Revenue Optimization, Operations Management
 ---
 
 **Project Type**: Business Analytics & Machine Learning | **Industry**: Food Delivery | **Focus**: Customer Experience & Revenue Optimization
 
 ---
 
-### 📈 **Project Stats**
-![GitHub repo size](https://img.shields.io/github/repo-size/sandesha21/foodhub-analysis?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/sandesha21/foodhub-analysis?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/sandesha21/foodhub-analysis?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sandesha21/foodhub-analysis?style=flat-square)
+#### 🌟 **If you found this project helpful, please give it a ⭐!**
